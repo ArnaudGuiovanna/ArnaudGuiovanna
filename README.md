@@ -28,9 +28,9 @@ My work is focused on one question: **what does it look like when a learner has 
 
 Not a chatbot. Not a quiz generator. A genuine learning system, one that knows where you are, where you need to go, and how to get you there.
 
-* **AI-native, not AI-enhanced** — built from scratch around LLMs as the core reasoning layer
-* **Self-directed learning** — the system adapts to the learner, not the other way around
-* **Open and accessible** — because the ability to learn shouldn't depend on where you were born
+* **AI-native, not AI-enhanced** : built from scratch around LLMs as the core reasoning layer
+* **Self-directed learning** : the system adapts to the learner, not the other way around
+* **Open and accessible** : because the ability to learn shouldn't depend on where you were born
 
 ---
 
