@@ -48,9 +48,9 @@ My work is focused on one question: **what if anyone could learn anything, on th
 <details>
 <summary>⚡ A few things about me</summary>
 
-- I think self-learning is the most important superpower, and AI is about to make it universally accessible,
+- I think self-learning is the most important superpower, and AI is about to make it universally accessible.
 - I'm convinced that the best teachers are agents.
-- My stack: Go for the backend, React for the UI, Claude Code + Codex for everything else,
+- My stack: Go for the backend, React for the UI, Claude Code + Codex for everything else.
 - I design systems where the AI *is* the pedagogy engine, not a feature on top of it.
 
 </details>
