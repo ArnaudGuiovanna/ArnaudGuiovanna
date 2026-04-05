@@ -26,11 +26,9 @@ Education has always been gated, by geography, money, time, or access to the rig
 
 My work is focused on one question: **what if anyone could learn anything, on their own, and actually succeed?**
 
-Not a chatbot. Not a quiz generator. A genuine learning system — one that knows where you are, where you need to go, and how to get you there.
-
-* **LLM at the core, not on top** — I don't add AI to existing products. I build entirely new systems where the LLM *is* the architecture, from day one
-* **A system that truly understands the learner** — not just tracking progress, but modeling how someone thinks, where they struggle, and what they need next
-* **Self-learning for everyone** — the dream of learning anything, by yourself, at your own pace, is finally within reach. That's what I'm building toward
+* **LLM at the core, not on top** :  I don't add AI to existing products. I build entirely new systems where the LLM *is* the architecture, from day one
+* **A system that truly understands the learner**  : not just tracking progress, but modeling how someone thinks, where they struggle, and what they need next
+* **Self-learning for everyone** : the dream of learning anything, by yourself, at your own pace, is finally within reach. That's what I'm building toward
 
 ---
 
