@@ -1,9 +1,10 @@
 # Hi, I'm Arnaud 👋
 
-📍 **Paris** & **Normandy** | 🤖 **AI Product builder** | 🎓 **Learning Systems Architect**
+📍 **Paris** | 🤖 **AI-native builder** | 🎓 **Learning Systems Architect**
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com/)
 [![MCP](https://img.shields.io/badge/-MCP-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)]()
 [![LLM](https://img.shields.io/badge/-LLM%20Agents-121212?style=flat-square&logo=openai&logoColor=white)]()
@@ -59,3 +60,4 @@ I believe the next generation of learning tools won't look like apps — they'll
 - Currently obsessed with persistent memory for learning agents
 
 </details>
+
