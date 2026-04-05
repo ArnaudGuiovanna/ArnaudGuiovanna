@@ -1,6 +1,6 @@
 # Hi, I'm Arnaud 👋
 
-📍 **Paris** && **Normandie** | 🎓 **AI Learning Product Builder** | 🤖 **Building AI-native learning systems**
+📍 **Normandie** | 🎓 **AI Learning Product Builder** | 🤖 **Building AI-native learning systems**
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
