@@ -60,4 +60,3 @@ I believe the next generation of learning tools won't look like apps — they'll
 - Currently obsessed with persistent memory for learning agents
 
 </details>
-
