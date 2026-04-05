@@ -22,11 +22,11 @@
 
 ## 🧭 What I'm building toward
 
-Education has always been gated — by geography, money, time, or access to the right teacher. AI breaks that gate.
+Education has always been gated, by geography, money, time, or access to the right teacher. AI breaks that gate.
 
 My work is focused on one question: **what does it look like when a learner has a tireless, infinitely patient, perfectly adaptive tutor available 24/7?**
 
-Not a chatbot. Not a quiz generator. A genuine learning system — one that knows where you are, where you need to go, and how to get you there.
+Not a chatbot. Not a quiz generator. A genuine learning system, one that knows where you are, where you need to go, and how to get you there.
 
 * **AI-native, not AI-enhanced** — built from scratch around LLMs as the core reasoning layer
 * **Self-directed learning** — the system adapts to the learner, not the other way around
