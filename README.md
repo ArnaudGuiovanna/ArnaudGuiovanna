@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Current Project
+## 🚀 Projects
 
   <p align="center">
     <a href="https://github.com/ArnaudGuiovanna/learning-runtime">
