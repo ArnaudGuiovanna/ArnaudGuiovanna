@@ -21,7 +21,7 @@
   alt="learning/runtime — Self-learning is a superpower." width="100%" />
     </a>
   </p>
-  <a href="https://github.com/ArnaudGuiovanna/ouvrier"> <b>Ouvrier</b></a>: a Go framework for turning an API, webhook, cron job, or stream into reliable, governed agentic middleware.
+  <a href="https://github.com/ArnaudGuiovanna/ouvrier"> <b>Ouvrier </b></a>: a Go framework for turning an API, webhook, cron job, or stream into reliable, governed agentic middleware.
 
 ---
 
