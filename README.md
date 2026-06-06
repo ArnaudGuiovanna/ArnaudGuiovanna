@@ -23,7 +23,8 @@
   </p>
   <br>
   <a href="https://github.com/ArnaudGuiovanna/ouvrier"> 🔨 <b>Ouvrier </b></a> -  a Go framework for turning an API, webhook, cron job, or stream into reliable, governed agentic middleware.<br>
-  <a href="https://github.com/ArnaudGuiovanna/lore"> <b>Lore</b></a> - an agentic headless LMS. 
+  <a href="https://github.com/ArnaudGuiovanna/lore"> 🤖 <b>Lore</b></a> - an agentic headless LMS. 
+
 ---
 
 ## 🧭 What I'm building toward
