@@ -8,36 +8,22 @@
 [![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 [![MCP](https://img.shields.io/badge/-MCP-FF6B35?style=flat-square&logoColor=white)]()
 
-> Self-learning is a superpower. 
-> AI is the key to unlocking it for everyone, and I'm trying to build the tools to make it real.
 
 ---
 
-## 🚀 Projects
+## 🚀 My Projects
 
-  <p align="center">
-    <a href="https://github.com/ArnaudGuiovanna/learning-runtime">
-      <img src="https://raw.githubusercontent.com/ArnaudGuiovanna/learning-runtime/main/docs/banner.svg"
-  alt="learning/runtime — Self-learning is a superpower." width="100%" />
-    </a>
-  </p>
+  
+
+   
+
   <br>
+  <a href="https://github.com/ArnaudGuiovanna/learning-runtime">👨‍🎓 Tutor MCP : Turn any LLM into an intelligent tutor.</a>
   <a href="https://github.com/ArnaudGuiovanna/ouvrier"> 🔨 <b>Ouvrier </b></a> -  a Go framework for agentic middleware.<br>
   <a href="https://github.com/ArnaudGuiovanna/lore"> 🤖 <b>Lore</b></a> - an agentic headless LMS. 
 
 ---
 
-## 🧭 What I'm building toward
-
-Education has always been gated, by geography, money, time, or access to the right teacher. AI breaks that gate.
-
-My work is focused on one question: **what if anyone could learn anything, on their own, and actually succeed?**
-
-* **LLM at the core, not on top** :  I don't add AI to existing products. I build entirely new systems where the LLM *is* the architecture, from day one
-* **A system that truly understands the learner**  : not just tracking progress, but modeling how someone thinks, where they struggle, and what they need next
-* **Self-learning for everyone** : the dream of learning anything, by yourself, at your own pace, is finally within reach. That's what I'm building toward
-
----
 
 ## 📊 GitHub Activity
 
