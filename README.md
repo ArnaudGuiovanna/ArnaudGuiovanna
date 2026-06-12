@@ -35,15 +35,6 @@ An agentic headless LMS.
 
 ---
 
-## 🧰 Stack
-
-**Languages & frameworks** — Go · Next.js · Tailwind
-**Agentic coding** — Claude Code · Codex · OpenCode
-**LLMOps** — vLLM · LiteLLM · Langfuse
-**DevOps** — Git · Docker · Linux
-
----
-
 ## 📊 GitHub Activity
 
 [![GitHub Contribution Graph](https://ghchart.rshah.org/ArnaudGuiovanna)](https://github.com/ArnaudGuiovanna)
@@ -57,13 +48,4 @@ An agentic headless LMS.
 
 ---
 
-<details>
-<summary>⚡ A few things about me</summary>
 
-- **End-to-end** means the four phases a team usually splits — product, stakeholders, engineering, ops — are handled by one person. The point isn't to do everything; it's that the seams between phases never become handoff costs.
-- I think self-learning is the most important superpower, and AI is about to make it universally accessible.
-- I'm convinced that the best teachers are agents.
-- I design systems where the AI *is* the pedagogy engine, not a feature on top of it.
-- My stack: Go for the backend, Next.js + Tailwind for the UI, Claude Code + Codex for everything else.
-
-</details>
