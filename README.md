@@ -29,7 +29,7 @@ A Go framework for **agentic middleware**. Declare a trigger, one or more LLM-po
 An adaptive learning engine exposed as an **MCP server**. It turns any LLM into a personalised tutor with real-time cognitive-state tracking, spaced-repetition scheduling, misconception diagnosis, and a metacognitive loop that helps learners become autonomous.
 
 
-### 🤖 [Lore](https://github.com/ArnaudGuiovanna/lore) &nbsp;·&nbsp; `early`
+### 🤖 [Lore](https://github.com/ArnaudGuiovanna/lore) 
 
 An agentic headless LMS.
 
