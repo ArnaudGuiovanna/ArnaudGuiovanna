@@ -1,29 +1,56 @@
 # Hi, I'm Arnaud 👋
 
-📍 **Normandie** | 🔨 **AI Product Builder** | 🤖 **Building AI-native learning systems**
+📍 **Normandy, France** | ⚡ **AI Product Builder** | 🚀 **Shipping AI-native products**
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![Claude](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com/)
 [![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
-[![MCP](https://img.shields.io/badge/-MCP-FF6B35?style=flat-square&logoColor=white)]()
+[![MCP](https://img.shields.io/badge/-MCP-FF6B35?style=flat-square&logoColor=white)](https://modelcontextprotocol.io/)
 
+> I close the full delivery loop on my own — product discovery, specs, agentic engineering at the SOTA (multi-agent coding, MCP servers, parallel subagents, eval harnesses), stakeholder rituals, Linear ops, deployment to bare-metal.
+> 10 years digitalizing the training sector, now scaled by end-to-end agentic development. Open source.
 
----
-
-## 🚀 My Projects
-
-  
-
-   
-
-  <br>
-  <a href="https://github.com/ArnaudGuiovanna/learning-runtime">👨‍🎓 <b>Tutor MCP </b></a> : Turn any LLM into an intelligent tutor.<br>
-  <a href="https://github.com/ArnaudGuiovanna/ouvrier"> 🔨 <b>Ouvrier </b></a> -  a Go framework for agentic middleware.<br>
-  <a href="https://github.com/ArnaudGuiovanna/lore"> 🤖 <b>Lore</b></a> - an agentic headless LMS. 
+`END-TO-END · SPEC → DEPLOY`
 
 ---
 
+## 🚀 Projects
+
+> Every project is open source and shipped full solo, end-to-end. Same playbook each time: own the issues, write the specs, design the architecture, code with agents in the loop, review every change. The vertical changes — the playbook does not.
+
+### 🔨 [Ouvrier](https://github.com/ArnaudGuiovanna/ouvrier) &nbsp;·&nbsp; `building · v0.1 · MIT`
+
+A Go framework for **agentic middleware**. Declare a trigger, one or more LLM-powered pipes, the tools they can use, and the outcome — Ouvrier turns that declaration into a governed worker with typed results, tool sandboxing, traces, and durable state.
+
+`Go 1.25 · Anthropic / OpenAI / Ollama adapters · SQLite state · sandboxed tool executor · Bubble Tea TUI`
+
+[`github ↗`](https://github.com/ArnaudGuiovanna/ouvrier) &nbsp;·&nbsp; [`readme ↗`](https://github.com/ArnaudGuiovanna/ouvrier#readme)
+
+### 🧠 [Tutor-MCP](https://github.com/ArnaudGuiovanna/tutor-mcp) &nbsp;·&nbsp; `active · v0.3 · MIT`
+
+An adaptive learning engine exposed as an **MCP server**. It turns any LLM into a personalised tutor with real-time cognitive-state tracking, spaced-repetition scheduling, misconception diagnosis, and a metacognitive loop that helps learners become autonomous.
+
+`30 MCP tools · 5 algorithms (BKT · FSRS · IRT · PFA · KST) · 9 alert types · 90 tests`
+`Go 1.25 · SQLite · MCP Go SDK · OAuth 2.1 · JWT · cron · Discord webhooks`
+
+[`website ↗`](http://tutor-mcp.dev/) &nbsp;·&nbsp; [`github ↗`](https://github.com/ArnaudGuiovanna/tutor-mcp) &nbsp;·&nbsp; [`readme ↗`](https://github.com/ArnaudGuiovanna/tutor-mcp#readme)
+
+### 🤖 [Lore](https://github.com/ArnaudGuiovanna/lore) &nbsp;·&nbsp; `early`
+
+An agentic headless LMS.
+
+---
+
+## 🧰 Stack
+
+**Languages & frameworks** — Go · Next.js · Tailwind
+**Agentic coding** — Claude Code · Codex · OpenCode
+**LLMOps** — vLLM · LiteLLM · Langfuse
+**DevOps** — Git · Docker · Linux
+
+---
 
 ## 📊 GitHub Activity
 
@@ -41,9 +68,10 @@
 <details>
 <summary>⚡ A few things about me</summary>
 
+- **End-to-end** means the four phases a team usually splits — product, stakeholders, engineering, ops — are handled by one person. The point isn't to do everything; it's that the seams between phases never become handoff costs.
 - I think self-learning is the most important superpower, and AI is about to make it universally accessible.
 - I'm convinced that the best teachers are agents.
-- My stack: Go for the backend, React for the UI, Claude Code + Codex for everything else.
 - I design systems where the AI *is* the pedagogy engine, not a feature on top of it.
+- My stack: Go for the backend, Next.js + Tailwind for the UI, Claude Code + Codex for everything else.
 
 </details>
