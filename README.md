@@ -18,22 +18,17 @@
 
 ## 🚀 Projects
 
-> Every project is open source and shipped full solo, end-to-end. Same playbook each time: own the issues, write the specs, design the architecture, code with agents in the loop, review every change. The vertical changes — the playbook does not.
 
-### 🔨 [Ouvrier](https://github.com/ArnaudGuiovanna/ouvrier) &nbsp;·&nbsp; `building · v0.1 · MIT`
+### 🔨 [Ouvrier](https://github.com/ArnaudGuiovanna/ouvrier) 
 
 A Go framework for **agentic middleware**. Declare a trigger, one or more LLM-powered pipes, the tools they can use, and the outcome — Ouvrier turns that declaration into a governed worker with typed results, tool sandboxing, traces, and durable state.
 
-`Go 1.25 · Anthropic / OpenAI / Ollama adapters · SQLite state · sandboxed tool executor · Bubble Tea TUI`
 
-[`github ↗`](https://github.com/ArnaudGuiovanna/ouvrier) &nbsp;·&nbsp; [`readme ↗`](https://github.com/ArnaudGuiovanna/ouvrier#readme)
-
-### 🧠 [Tutor-MCP](https://github.com/ArnaudGuiovanna/tutor-mcp) &nbsp;·&nbsp; `active · v0.3 · MIT`
+### 🧠 [Tutor-MCP](https://github.com/ArnaudGuiovanna/tutor-mcp) 
 
 An adaptive learning engine exposed as an **MCP server**. It turns any LLM into a personalised tutor with real-time cognitive-state tracking, spaced-repetition scheduling, misconception diagnosis, and a metacognitive loop that helps learners become autonomous.
 
-`30 MCP tools · 5 algorithms (BKT · FSRS · IRT · PFA · KST) · 9 alert types · 90 tests`
-`Go 1.25 · SQLite · MCP Go SDK · OAuth 2.1 · JWT · cron · Discord webhooks`
+
 
 [`website ↗`](http://tutor-mcp.dev/) &nbsp;·&nbsp; [`github ↗`](https://github.com/ArnaudGuiovanna/tutor-mcp) &nbsp;·&nbsp; [`readme ↗`](https://github.com/ArnaudGuiovanna/tutor-mcp#readme)
 
