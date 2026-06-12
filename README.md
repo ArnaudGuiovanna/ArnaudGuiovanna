@@ -18,7 +18,7 @@
    
 
   <br>
-  <a href="https://github.com/ArnaudGuiovanna/learning-runtime">👨‍🎓 Tutor MCP : Turn any LLM into an intelligent tutor.</a>
+  <a href="https://github.com/ArnaudGuiovanna/learning-runtime">👨‍🎓 <b>Tutor MCP </b></a> : Turn any LLM into an intelligent tutor.<br>
   <a href="https://github.com/ArnaudGuiovanna/ouvrier"> 🔨 <b>Ouvrier </b></a> -  a Go framework for agentic middleware.<br>
   <a href="https://github.com/ArnaudGuiovanna/lore"> 🤖 <b>Lore</b></a> - an agentic headless LMS. 
 
