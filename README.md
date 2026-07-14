@@ -21,7 +21,7 @@
 
 ### 🔨 [Ouvrier](https://github.com/ArnaudGuiovanna/ouvrier) 
 
-A Go framework for **agentic middleware**. Declare a trigger, one or more LLM-powered pipes, the tools they can use, and the outcome — Ouvrier turns that declaration into a governed worker with typed results, tool sandboxing, traces, and durable state.
+A Go framework for **agentic middleware**. Declare a trigger, one or more LLM-powered pipes, the tools they can use, and the outcome, Ouvrier turns that declaration into a governed worker with typed results, tool sandboxing, traces, and durable state.
 
 
 ### 🧠 [Tutor-MCP](https://github.com/ArnaudGuiovanna/tutor-mcp) 
@@ -35,7 +35,7 @@ An agentic headless LMS.
 
 ### 🔢 [GoLLM](https://github.com/ArnaudGuiovanna/gollm) 
 
-A production LLM inference engine that runs inside your Go program — standalone, or as a drop-in model for [Google's Agent Development Kit (ADK) for Go](https://github.com/google/adk-go).
+A production LLM inference engine that runs inside your Go program : standalone, or as a drop-in model for [Google's Agent Development Kit (ADK) for Go](https://github.com/google/adk-go).
 
 ---
 
