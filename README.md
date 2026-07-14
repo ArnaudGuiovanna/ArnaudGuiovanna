@@ -33,6 +33,9 @@ An adaptive learning engine exposed as an **MCP server**. It turns any LLM into 
 
 An agentic headless LMS.
 
+### 🔢 [GoLLM](https://github.com/ArnaudGuiovanna/gollm) 
+
+A production LLM inference engine that runs inside your Go program — standalone, or as a drop-in model for [Google's Agent Development Kit (ADK) for Go](https://github.com/google/adk-go).
 ---
 
 ## 📊 GitHub Activity
