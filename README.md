@@ -31,7 +31,11 @@ An adaptive learning engine exposed as an **MCP server**. It turns any LLM into 
 
 ### 🤖 [Lore](https://github.com/ArnaudGuiovanna/lore) 
 
-An agentic headless LMS.
+An agentic headless LMS. 
+
+### 💡 [Mind-CLI](https://github.com/ArnaudGuiovanna/mind-cli) 
+
+Local, advisory CLI that helps humans retain operational understanding of AI-built codebases.
 
 ---
 
